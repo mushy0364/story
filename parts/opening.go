@@ -16,4 +16,5 @@ func init() {
 		},
 		"onleave": "Nice to meet you {{.name}}.",
 	}
+
 }
